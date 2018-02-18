@@ -1,0 +1,7 @@
+<meta>
+    <info name="Stat UI" author="rootcause" type="script" />
+
+    <!-- Files -->
+    <script src="StatUI.js" type="client" lang="javascript" />
+    <script src="example.js" type="client" lang="javascript" />
+</meta>
